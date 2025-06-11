@@ -20,7 +20,7 @@ See `environment.yml` for all dependencies. Main ones:
 ## Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/pokemon-image-recognition.git
+git clone https://github.com/PierreMarcelZimmermann/Pythondex
 cd pokemon-image-recognition
 ```
 2. Create and activate the conda environment:
